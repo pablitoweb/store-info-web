@@ -1,1 +1,2 @@
 #store-info-web
+shop
